@@ -1,17 +1,17 @@
-Frequently Asked Questions
-==========================
+Veelgestelde vragen
+===================
 
-Where should I learn more about Erexiva?
-----------------------------------------
-
-The best starting point is the `official Erexiva website <https://www.erexiva.cc/>`_, because it should contain the most current product presentation and ordering information.
-
-Is Erexiva a prescription treatment?
-------------------------------------
-
-No. Erexiva is described as a dietary supplement. It should not be treated as a replacement for medical evaluation or prescribed care.
-
-Can I use the images from this repository?
+Waar vind ik meer informatie over Erexiva?
 ------------------------------------------
 
-This repository includes only PNG product-style images for the documentation pages. No SVG assets are used.
+Het beste startpunt is de `officiële Erexiva-website <https://www.erexiva.cc/>`_, omdat die de meest actuele productpresentatie en bestelinformatie hoort te bevatten.
+
+Is Erexiva een behandeling op recept?
+-------------------------------------
+
+Nee. Erexiva wordt beschreven als een voedingssupplement. Het mag niet worden gezien als vervanging voor medische beoordeling of voorgeschreven zorg.
+
+Kan ik de afbeeldingen uit deze documentatiesite gebruiken?
+-----------------------------------------------------------
+
+Deze documentatiesite verwijst naar PNG-productafbeeldingen die in de map `_static` kunnen worden geüpload. Er worden geen SVG-bestanden gebruikt.
