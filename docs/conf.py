@@ -1,4 +1,4 @@
-project = "Erexiva Men's Vitality Guide"
+project = "Erexiva Gids voor Mannelijke Vitaliteit"
 author = "Erexiva"
 copyright = "2026, Erexiva"
 
