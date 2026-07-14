@@ -1,19 +1,19 @@
-Usage and Buying Notes
-======================
+Gebruik en aankoopnotities
+==========================
 
-Follow the directions printed on the Erexiva bottle or package. Online summaries can become outdated, so the safest reference for current instructions is the `official Erexiva website <https://www.erexiva.cc/>`_.
+Volg de aanwijzingen op de Erexiva-fles of verpakking. Online samenvattingen kunnen verouderd raken, dus de veiligste bron voor actuele instructies is de `officiële Erexiva-website <https://www.erexiva.cc/>`_.
 
-Before ordering
----------------
+Vóór het bestellen
+------------------
 
-Use this short checklist before purchasing from `Erexiva.cc <https://www.erexiva.cc/>`_:
+Gebruik deze korte checklist voordat je bestelt via `Erexiva.cc <https://www.erexiva.cc/>`_:
 
-#. Review the current offer and package quantity.
-#. Confirm that the product name and bottle images match Erexiva Active Man Formula.
-#. Read all warnings and serving directions.
-#. Save the `official Erexiva link <https://www.erexiva.cc/>`_ for future support or reorder questions.
+#. Bekijk de actuele aanbieding en de verpakkingshoeveelheid.
+#. Controleer of de productnaam en flesafbeeldingen overeenkomen met Erexiva Active Man Formula.
+#. Lees alle waarschuwingen en gebruiksaanwijzingen.
+#. Bewaar de `officiële Erexiva-link <https://www.erexiva.cc/>`_ voor toekomstige support- of nabestelvragen.
 
-Lifestyle pairing
------------------
+Combineren met leefstijl
+------------------------
 
-Supplements work best as part of a broader routine. Consider pairing Erexiva research with regular exercise, protein-rich meals, consistent sleep, reduced alcohol intake, and stress management.
+Supplementen passen het beste binnen een bredere routine. Combineer je Erexiva-onderzoek bij voorkeur met regelmatige beweging, eiwitrijke maaltijden, consistente slaap, minder alcohol en stressbeheersing.
